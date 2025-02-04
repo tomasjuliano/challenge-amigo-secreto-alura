@@ -1,4 +1,4 @@
-# 🎁 Challegne Amigo Secreto - Alura Latam
+# 🎁 Challenge Amigo Secreto - Alura Latam
 
 Este proyecto es una aplicación web desarrollada con HTML, CSS y JavaScript que permite realizar un sorteo aleatorio entre amigos para jugar al "Amigo Secreto".
 
@@ -6,7 +6,7 @@ Este proyecto es una aplicación web desarrollada con HTML, CSS y JavaScript que
 Puedes probar la aplicación en el siguiente enlace: [GitHub Pages](https://tomasjuliano.github.io/challenge-amigo-secreto-alura/)
 
 ## 📸 Screenshots
-![Preview](assets/img/screenshot1.png)
+![Preview](assets/screenshot1.png)
 
 ## 🛠 Tecnologías utilizadas
 - HTML
